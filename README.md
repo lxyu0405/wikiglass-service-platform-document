@@ -1,4 +1,0 @@
-# wikiglass-service-platform-document
-
-
-
